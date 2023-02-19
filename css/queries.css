@@ -1,0 +1,567 @@
+@media (max-width: 117.5em) {
+  .about-logo {
+    width: 45%;
+    top: 19.7%;
+  }
+  .about-textline {
+    margin: 0 5% 0 15%;
+    width: 60%;
+  }
+}
+
+@media (max-width: 109.625em) {
+  .about-logo {
+    width: 40%;
+    top: 22.3%;
+  }
+  .logo--footer {
+    width: 40.5%;
+  }
+}
+
+@media (max-width: 104em) {
+  .about-logo {
+    top: 23%;
+  }
+  .logo--footer {
+    width: 42%;
+  }
+  .image-box {
+    height: 43rem;
+  }
+}
+
+@media (max-width: 96.375em) {
+  .about-logo {
+    top: 22.45%;
+    width: 45%;
+  }
+  .about-textline {
+    width: 65%;
+  }
+}
+
+@media (max-width: 90em) {
+  .about-logo {
+    width: 48%;
+  }
+  .about-textline {
+    width: 70%;
+  }
+  .logo--footer {
+    width: 45%;
+  }
+  .image-box {
+    height: 40rem;
+  }
+  .logo {
+    width: 40%;
+  }
+}
+
+@media (max-width: 85.625em) {
+  .about-logo {
+    width: 46.8%;
+  }
+  .image-box {
+    height: 35rem;
+  }
+  .about-section {
+    height: 65rem;
+  }
+  .about-textline {
+    width: 72%;
+  }
+  .about-titleline {
+    font-size: 3.8rem;
+  }
+  .phone-link,
+  .email-link {
+    font-size: 3.8rem;
+  }
+  .phone-icons,
+  .email-icons {
+    font-size: 2.4rem;
+  }
+  .stuff-title-main {
+    font-size: 3.5rem;
+    top: -55%;
+  }
+}
+
+@media (max-width: 81.125em) {
+  .about-logo {
+    width: 49%;
+  }
+  .about-textline {
+    width: 75%;
+  }
+  .footer {
+    height: 22rem;
+    margin-top: 13rem;
+  }
+}
+
+@media (max-width: 78.25em) {
+  .about-logo {
+    width: 51%;
+  }
+  .logo--footer {
+    width: 46%;
+  }
+  .title-two-lines {
+    margin-top: 7rem;
+  }
+}
+
+@media (max-width: 74.125em) {
+  .about-logo {
+    width: 54%;
+  }
+  .about-titleline {
+    font-size: 3.2rem;
+  }
+  .image-box {
+    height: 30rem;
+  }
+  .phone-link,
+  .email-link {
+    font-size: 3.2rem;
+  }
+  .phone-icons,
+  .email-icons {
+    font-size: 2rem;
+  }
+  .about-text,
+  .phone-text,
+  .email-text {
+    font-size: 1.6rem;
+  }
+  .stuff-title-main {
+    font-size: 3rem;
+    top: -48%;
+  }
+  .logo--footer {
+    width: 49%;
+  }
+  .footer-text {
+    font-size: 1.2rem;
+    margin-bottom: 2.5%;
+  }
+}
+
+@media (max-width: 69.625em) {
+  .about-logo {
+    width: 58%;
+  }
+  .nav-list-link:link,
+  .nav-list-link:visited {
+    font-size: 1.4rem;
+  }
+  .stuff-box {
+    grid-template-columns: 33fr 33fr 33fr;
+    row-gap: 2.4rem;
+    column-gap: 1.5rem;
+  }
+  .footer {
+    height: 18rem;
+  }
+}
+
+@media (max-width: 65.375em) {
+  .header {
+    height: 5rem;
+    gap: 7rem;
+  }
+  .about-logo {
+    width: 52.5%;
+  }
+  .about-section {
+    height: 60rem;
+  }
+  .about-text,
+  .phone-text,
+  .email-text {
+    font-size: 1.2rem;
+  }
+  .image-box {
+    height: 26rem;
+  }
+  .about-titleline,
+  .phone-link,
+  .email-link {
+    font-size: 2.8rem;
+  }
+  .phone-icons,
+  .email-icons {
+    font-size: 1.6rem;
+  }
+  .stuff-title-main {
+    font-size: 2.6rem;
+    top: -40%;
+  }
+  .about-section {
+    height: 55rem;
+  }
+}
+
+@media (max-width: 63.375em) {
+  .header {
+    gap: 5rem;
+  }
+  .nav-list {
+    gap: 2rem;
+  }
+  .logo--footer {
+    width: 53%;
+  }
+  .about-logo {
+    width: 54%;
+  }
+}
+
+@media (max-width: 58rem) {
+  .nav-list-link.nav-button:link,
+  .nav-list-link.nav-button:visited {
+    padding: 0.7rem;
+  }
+  .header {
+    gap: 3.5rem;
+  }
+  .nav-list {
+    gap: 1.5rem;
+  }
+  .image-box {
+    height: 23rem;
+  }
+  .about-titleline,
+  .phone-link,
+  .email-link {
+    font-size: 2.4rem;
+  }
+  .about-logo {
+    width: 59%;
+  }
+  .stuff-title-main {
+    font-size: 2.4rem;
+    top: -35%;
+  }
+  .stuff-box {
+    width: 45%;
+    padding: 0;
+  }
+}
+
+@media (max-width: 53.25em) {
+  .nav-list-link:link,
+  .nav-list-link:visited {
+    font-size: 1.2rem;
+  }
+  .logo {
+    width: 45%;
+  }
+  .about-section {
+    height: 40rem;
+  }
+  .about-logo {
+    width: 46%;
+  }
+  .about-box-line {
+    border: 1px solid #fff;
+  }
+  .about-line {
+    border: 1px solid #a09d7d;
+  }
+  .stuff-title-main {
+    font-size: 2rem;
+    top: -30%;
+  }
+  .footer-line {
+    border: 1px solid #fff;
+  }
+  .logo--footer {
+    width: 57%;
+  }
+  .person-title {
+    font-size: 2rem;
+  }
+  .person-list-all {
+    font-size: 1.2rem;
+    line-height: 130%;
+  }
+}
+
+@media (max-width: 50.375em) {
+  .logo {
+    width: 50%;
+  }
+  .header {
+    gap: 2rem;
+  }
+  .about-titleline,
+  .phone-link,
+  .email-link {
+    font-size: 2rem;
+  }
+  .about-section {
+    height: 35rem;
+  }
+  .about-logo {
+    width: 43%;
+  }
+  .logo--footer {
+    width: 59%;
+  }
+  .image-box {
+    height: 20rem;
+  }
+}
+
+@media (max-width: 47.375em) {
+  .nav-list {
+    gap: 1.1rem;
+  }
+  .about-logo {
+    width: 46%;
+  }
+  .stuff-box {
+    margin-left: 10%;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 44em) {
+  .logo-link {
+    width: 30%;
+  }
+  .nav {
+    width: 70%;
+  }
+  .logo {
+    width: 70%;
+  }
+  .about-logo {
+    width: 49%;
+  }
+  .about-text,
+  .phone-text,
+  .email-text {
+    font-size: 1rem;
+  }
+  .phone-icons,
+  .email-icons {
+    font-size: 1.4rem;
+  }
+  .about-titleline,
+  .phone-link,
+  .email-link {
+    font-size: 1.8rem;
+  }
+  .image-box {
+    height: 18rem;
+  }
+  .stuff-line-one,
+  .stuff-line-two {
+    border: 1px solid #a09d7d;
+  }
+  .stuff-title-main {
+    font-size: 1.8rem;
+  }
+  .logo--footer {
+    width: 62.5%;
+  }
+  .persons {
+    width: 18rem;
+    height: 30rem;
+  }
+  .stuff-title {
+    font-size: 1.8rem;
+  }
+  .stuff-info {
+    font-size: 1.2rem;
+    margin-left: 12%;
+  }
+}
+
+@media (max-width: 40em) {
+  .about-logo {
+    width: 54%;
+  }
+  .stuff-box {
+    grid-template-columns: 50fr 50fr;
+    margin-left: 20%;
+  }
+  .logo--footer {
+    width: 65%;
+  }
+  .footer {
+    margin-top: 9rem;
+    height: 14rem;
+  }
+}
+
+@media (max-width: 37.875em) {
+  .nav-list-link.nav-button:link,
+  .nav-list-link.nav-button:visited {
+    padding: 0.4rem;
+  }
+  .image-box {
+    height: 14rem;
+  }
+  .about-titleline,
+  .phone-link,
+  .email-link {
+    font-size: 1.4rem;
+  }
+  .about-section {
+    height: 30rem;
+  }
+  .about-logo {
+    width: 49%;
+  }
+  .stuff-title-main {
+    font-size: 1.6rem;
+  }
+  .logo--footer {
+    width: 66%;
+  }
+  .about-textline {
+    width: 80%;
+  }
+}
+
+@media (max-width: 37.375em) {
+  .header {
+    gap: 1.5rem;
+  }
+  .nav-list-link.nav-button:link,
+  .nav-list-link.nav-button:visited {
+    padding: 0.3rem;
+  }
+}
+
+@media (max-width: 36.75em) {
+  .nav-list {
+    gap: 0.8rem;
+  }
+  .about-logo {
+    width: 52%;
+  }
+  .stuff-title-main {
+    font-size: 1.4rem;
+    top: -22%;
+  }
+  .footer-text {
+    font-size: 1rem;
+    margin-bottom: 2.9%;
+  }
+}
+
+@media (max-width: 35.25em) {
+  .header {
+    gap: 0.8rem;
+  }
+  .nav-list-link:link,
+  .nav-list-link:visited {
+    font-size: 1.1rem;
+  }
+  .about-logo {
+    width: 54%;
+  }
+}
+
+@media (max-width: 32.375em) {
+  .nav-list-link.nav-button:link,
+  .nav-list-link.nav-button:visited {
+    padding: 0.2rem;
+  }
+  .about-logo {
+    width: 58%;
+  }
+  .stuff-box {
+    margin-left: 13%;
+  }
+  .footer {
+    height: 10rem;
+    margin-top: 7rem;
+  }
+  .logo--footer {
+    width: 70%;
+  }
+  .logo {
+    width: 85%;
+  }
+}
+
+@media (max-width: 25em) {
+  .stuff-box {
+    grid-template-columns: 1fr;
+    margin: 0 25%;
+    row-gap: 0.5rem;
+    column-gap: 0;
+  }
+  .logo-link {
+    display: none;
+  }
+  .header {
+    gap: 0;
+    padding-left: 3%;
+  }
+  .nav {
+    width: 100%;
+    text-align: center;
+  }
+  .image-box {
+    height: 10rem;
+  }
+  .about-section {
+    height: 20rem;
+  }
+  .about-titleline,
+  .phone-link,
+  .email-link {
+    font-size: 1rem;
+  }
+  .about-text,
+  .phone-text,
+  .email-text {
+    font-size: 0.6rem;
+  }
+  .about-logo {
+    width: 50%;
+  }
+  .phone-icons,
+  .email-icons {
+    font-size: 0.8rem;
+  }
+  .stuff-title-main {
+    font-size: 1rem;
+    top: -15%;
+  }
+  .footer-text {
+    font-size: 0.7rem;
+  }
+  .logo--footer {
+    width: 64%;
+  }
+  .title-two-lines {
+    margin-top: 4rem;
+  }
+  .persons {
+    width: 13rem;
+    height: 23rem;
+  }
+  .person-title {
+    font-size: 1.5rem;
+  }
+  .person-list-all {
+    font-size: 0.8rem;
+  }
+  .stuff-title {
+    font-size: 1rem;
+  }
+  .stuff-info {
+    font-size: 0.8rem;
+    margin-left: 17%;
+  }
+}
