@@ -328,6 +328,10 @@
     margin-left: 10%;
     margin-right: 0;
   }
+  .stuff-box {
+    grid-template-columns: 50fr 50fr;
+    margin-left: 20%;
+  }
 }
 
 @media (max-width: 44em) {
@@ -385,10 +389,6 @@
 @media (max-width: 40em) {
   .about-logo {
     width: 54%;
-  }
-  .stuff-box {
-    grid-template-columns: 50fr 50fr;
-    margin-left: 20%;
   }
   .logo--footer {
     width: 65%;
