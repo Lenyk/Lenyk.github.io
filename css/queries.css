@@ -7,6 +7,9 @@
     margin: 0 5% 0 15%;
     width: 60%;
   }
+  .stuff-img {
+    width: 100%;
+  }
 }
 
 @media (max-width: 109.625em) {
@@ -453,7 +456,7 @@
     top: -22%;
   }
   .footer-text {
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin-bottom: 2.9%;
   }
 }
@@ -461,20 +464,23 @@
 @media (max-width: 35.25em) {
   .nav-list-link:link,
   .nav-list-link:visited {
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
   .about-logo {
     width: 54%;
+  }
+  .phone-mail-text {
+    padding-left: 7%;
   }
 }
 
 @media (max-width: 32.375em) {
   .nav-list-link.nav-button:link,
   .nav-list-link.nav-button:visited {
-    padding: 0.2rem;
+    padding: 0.3rem;
   }
   .about-logo {
-    width: 58%;
+    width: 67%;
   }
   .stuff-box {
     margin-left: 13%;
@@ -484,10 +490,13 @@
     margin-top: 7rem;
   }
   .logo--footer {
-    width: 70%;
+    width: 66%;
   }
   .logo {
     width: 85%;
+  }
+  .phone-mail-text {
+    padding-left: 3%;
   }
 }
 
