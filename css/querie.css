@@ -355,6 +355,10 @@
 }
 
 @media (max-width: 46.25em) {
+  html {
+    /* 8px / 16px = 0.5 = 50% */
+    font-size: 50%;
+  }
   .nav-list {
     gap: 1.5rem;
   }
