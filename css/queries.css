@@ -5,16 +5,7 @@
   }
 }
 
-@media (max-width: 109.625em) {
-  .logo--footer {
-    width: 40.5%;
-  }
-}
-
 @media (max-width: 104em) {
-  .logo--footer {
-    width: 42%;
-  }
   .image-box {
     height: 43rem;
   }
@@ -29,9 +20,6 @@
 @media (max-width: 90em) {
   .about-textline {
     width: 70%;
-  }
-  .logo--footer {
-    width: 45%;
   }
   .image-box {
     height: 40rem;
@@ -80,7 +68,7 @@
 
 @media (max-width: 78.25em) {
   .logo--footer {
-    width: 46%;
+    height: 12rem;
   }
   .title-two-lines {
     margin-top: 7rem;
@@ -112,7 +100,8 @@
     top: -48%;
   }
   .logo--footer {
-    width: 49%;
+    height: 11rem;
+    width: 33rem;
   }
   .footer-text {
     font-size: 1.2rem;
@@ -172,6 +161,9 @@
   .about-section {
     height: 55rem;
   }
+  .logo--footer {
+    height: 10.5rem;
+  }
 }
 
 @media (max-width: 63.375em) {
@@ -213,6 +205,9 @@
     width: 45%;
     padding: 0;
   }
+  .logo--footer {
+    height: 10rem;
+  }
 }
 
 @media (max-width: 53.25em) {
@@ -245,7 +240,8 @@
     border: 1px solid #fff;
   }
   .logo--footer {
-    width: 57%;
+    height: 9.8rem;
+    width: 28rem;
   }
   .person-title {
     font-size: 2rem;
@@ -272,7 +268,8 @@
     height: 35rem;
   }
   .logo--footer {
-    width: 59%;
+    width: 26rem;
+    height: 9.4rem;
   }
   .image-box {
     height: 20rem;
@@ -331,7 +328,8 @@
     font-size: 1.8rem;
   }
   .logo--footer {
-    width: 62.5%;
+    width: 24rem;
+    height: 8.6rem;
   }
   .persons {
     width: 18rem;
@@ -347,7 +345,8 @@
 
 @media (max-width: 40em) {
   .logo--footer {
-    width: 65%;
+    width: 22rem;
+    height: 8.4rem;
   }
   .footer {
     margin-top: 9rem;
@@ -375,7 +374,8 @@
     font-size: 1.6rem;
   }
   .logo--footer {
-    width: 66%;
+    width: 20rem;
+    height: 7rem;
   }
   .about-textline {
     width: 100%;
@@ -421,6 +421,10 @@
   .phone-mail-text {
     padding-left: 7%;
   }
+  .logo--footer {
+    width: 19rem;
+    height: 6.8rem;
+  }
 }
 
 @media (max-width: 32.375em) {
@@ -436,7 +440,8 @@
     margin-top: 7rem;
   }
   .logo--footer {
-    width: 66%;
+    width: 18rem;
+    height: 6.5rem;
   }
   .logo {
     width: 85%;
@@ -492,7 +497,8 @@
     font-size: 0.7rem;
   }
   .logo--footer {
-    width: 64%;
+    width: 16rem;
+    height: 5.1rem;
   }
   .title-two-lines {
     margin-top: 4rem;
