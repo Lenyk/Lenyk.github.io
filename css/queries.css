@@ -27,9 +27,6 @@
 }
 
 @media (max-width: 90em) {
-  .about-logo {
-    width: 48%;
-  }
   .about-textline {
     width: 70%;
   }
@@ -144,7 +141,9 @@
     gap: 7rem;
   }
   .about-logo {
-    width: 52.5%;
+    width: 28rem;
+    top: 13.6rem;
+    height: 9rem;
   }
   .about-section {
     height: 60rem;
@@ -221,6 +220,11 @@
   .nav-list-link:visited {
     font-size: 1.2rem;
   }
+  .about-logo {
+    width: 27rem;
+    top: 9.5rem;
+    height: 7rem;
+  }
   .logo {
     width: 45%;
   }
@@ -281,8 +285,7 @@
   }
   .about-logo {
     width: 25rem;
-    height: 9rem;
-  }
+}
   .stuff-box {
     margin-left: 10%;
     margin-right: 0;
@@ -396,9 +399,10 @@
     gap: 0.8rem;
   }
   .about-logo {
-    width: 20rem;
-    height: 7rem;
-  }
+    width: 18rem;
+    height: 5rem;
+    top: 7.3rem;
+}
   .stuff-title-main {
     font-size: 1.4rem;
     top: -22%;
@@ -510,8 +514,9 @@
     font-size: 0.8rem;
     margin-left: 17%;
   }
-    .about-logo {
-    width: 18rem;
-    height: 5rem;
+   .about-logo {
+    width: 14rem;
+    height: 4rem;
+    top: 4.5rem;
   }
 }
