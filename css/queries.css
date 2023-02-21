@@ -1,8 +1,4 @@
 @media (max-width: 117.5em) {
-  .about-logo {
-    width: 45%;
-    top: 19.7%;
-  }
   .about-textline {
     margin: 0 5% 0 15%;
     width: 60%;
@@ -10,19 +6,12 @@
 }
 
 @media (max-width: 109.625em) {
-  .about-logo {
-    width: 40%;
-    top: 22.3%;
-  }
   .logo--footer {
     width: 40.5%;
   }
 }
 
 @media (max-width: 104em) {
-  .about-logo {
-    top: 23%;
-  }
   .logo--footer {
     width: 42%;
   }
@@ -32,10 +21,6 @@
 }
 
 @media (max-width: 96.375em) {
-  .about-logo {
-    top: 22.45%;
-    width: 45%;
-  }
   .about-textline {
     width: 65%;
   }
@@ -60,9 +45,6 @@
 }
 
 @media (max-width: 85.625em) {
-  .about-logo {
-    width: 46.8%;
-  }
   .image-box {
     height: 35rem;
   }
@@ -90,9 +72,6 @@
 }
 
 @media (max-width: 81.125em) {
-  .about-logo {
-    width: 49%;
-  }
   .about-textline {
     width: 75%;
   }
@@ -103,9 +82,6 @@
 }
 
 @media (max-width: 78.25em) {
-  .about-logo {
-    width: 51%;
-  }
   .logo--footer {
     width: 46%;
   }
@@ -115,9 +91,6 @@
 }
 
 @media (max-width: 74.125em) {
-  .about-logo {
-    width: 54%;
-  }
   .about-titleline {
     font-size: 3.2rem;
   }
@@ -151,9 +124,6 @@
 }
 
 @media (max-width: 69.625em) {
-  .about-logo {
-    width: 58%;
-  }
   .nav-list-link:link,
   .nav-list-link:visited {
     font-size: 1.4rem;
@@ -215,9 +185,6 @@
   .logo--footer {
     width: 53%;
   }
-  .about-logo {
-    width: 54%;
-  }
 }
 
 @media (max-width: 58rem) {
@@ -239,9 +206,6 @@
   .email-link {
     font-size: 2.4rem;
   }
-  .about-logo {
-    width: 59%;
-  }
   .stuff-title-main {
     font-size: 2.4rem;
     top: -35%;
@@ -262,9 +226,6 @@
   }
   .about-section {
     height: 40rem;
-  }
-  .about-logo {
-    width: 46%;
   }
   .about-box-line {
     border: 1px solid #fff;
@@ -306,9 +267,6 @@
   .about-section {
     height: 35rem;
   }
-  .about-logo {
-    width: 43%;
-  }
   .logo--footer {
     width: 59%;
   }
@@ -322,7 +280,8 @@
     gap: 1.1rem;
   }
   .about-logo {
-    width: 46%;
+    width: 25rem;
+    height: 9rem;
   }
   .stuff-box {
     margin-left: 10%;
@@ -343,9 +302,6 @@
   }
   .logo {
     width: 70%;
-  }
-  .about-logo {
-    width: 49%;
   }
   .about-text,
   .phone-text,
@@ -387,9 +343,6 @@
   }
 
 @media (max-width: 40em) {
-  .about-logo {
-    width: 54%;
-  }
   .logo--footer {
     width: 65%;
   }
@@ -414,9 +367,6 @@
   }
   .about-section {
     height: 30rem;
-  }
-  .about-logo {
-    width: 49%;
   }
   .stuff-title-main {
     font-size: 1.6rem;
@@ -446,7 +396,8 @@
     gap: 0.8rem;
   }
   .about-logo {
-    width: 52%;
+    width: 20rem;
+    height: 7rem;
   }
   .stuff-title-main {
     font-size: 1.4rem;
@@ -463,9 +414,6 @@
   .nav-list-link:visited {
     font-size: 1rem;
   }
-  .about-logo {
-    width: 54%;
-  }
   .phone-mail-text {
     padding-left: 7%;
   }
@@ -475,9 +423,6 @@
   .nav-list-link.nav-button:link,
   .nav-list-link.nav-button:visited {
     padding: 0.3rem;
-  }
-  .about-logo {
-    width: 67%;
   }
   .stuff-box {
     margin-left: 13%;
@@ -531,9 +476,6 @@
   .email-text {
     font-size: 0.6rem;
   }
-  .about-logo {
-    width: 50%;
-  }
   .phone-icons,
   .email-icons {
     font-size: 0.8rem;
@@ -567,5 +509,9 @@
   .stuff-info {
     font-size: 0.8rem;
     margin-left: 17%;
+  }
+    .about-logo {
+    width: 18rem;
+    height: 5rem;
   }
 }
