@@ -155,7 +155,8 @@ body {
 }
 
 .about-logo {
-  width: 50%;
+  width: 32rem;
+  height: 12.8rem;
   position: absolute;
   top: 17.8%;
   right: 25%;
